@@ -205,5 +205,6 @@ class Java_Basics{
     catch(Exception  e){
       System.out.println(e);
     }
+    sc.close();
   }
 }
